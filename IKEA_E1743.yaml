@@ -1,5 +1,5 @@
 blueprint:
-  name: 'Z2M IKEA On Off and dimming Lights'
+  name: 'Z2M IKEA 1743'
   description: Blueprint for Ikea Remote Controls (On/Off and dim) for controlling lights
   domain: automation
   source_url: https://community.home-assistant.io/t/z2m-ikea-tradfri-dimmer-switch-on-off-and-dimming/516972
